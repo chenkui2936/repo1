@@ -1,4 +1,4 @@
 public class test{
-public void say(){
+public void sayhello(){
 }
 }
