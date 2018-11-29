@@ -1,4 +1,8 @@
 public class test{
+
 public void sayhi(){
+}
+public void sayhello(){
+
 }
 }
